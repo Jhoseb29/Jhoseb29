@@ -20,11 +20,13 @@ class Skills extends Front-End/Back-End Developer {
 
 ### GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jhoseb29&theme=dark)](https://git.io/streak-stats)
+
 <a href="https://github.com/ankitwarbhe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
 </a>
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jhoseb29&theme=dark)](https://git.io/streak-stats)
+
 
 ### Social Networks
 
